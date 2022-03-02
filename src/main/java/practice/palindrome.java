@@ -6,9 +6,9 @@ public class palindrome {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-      /*  System.out.println("enter value");
+        System.out.println("enter value");
         String value = sc.nextLine();
-        createPalindrome(value);*/
+        createPalindrome(value);
 
         System.out.println("enter value");
         int n = sc.nextInt();
